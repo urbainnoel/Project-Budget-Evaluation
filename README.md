@@ -16,7 +16,7 @@ This analysis focuses on the project overview dashboard, which provides a compre
 This report presents an exploratory analysis of project budgets across departments. The goal is to assess budget distribution, project allocation, and departmental alignment with organizational goals. The dashboard is designed to offer insights into how resources are allocated, which departments are receiving the most funding, and the status of ongoing and upcoming projects.
 
 ## Key Performance Indicators (KPIs)
-
+![Power BI Report](https://raw.githubusercontent.com/urbainnoel/Project-Budget-Evaluation/main/project_budget_evaluation.jpg)
 ### Capital and Project Budget
 
 - **Total Capital:** $1.29M
