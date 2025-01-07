@@ -15,7 +15,7 @@ This analysis focuses on the project overview dashboard, which provides a compre
 This report presents an exploratory analysis of project budgets across departments. The goal is to assess budget distribution, project allocation, and departmental alignment with organizational goals.
 
 ## Key Performance Indicators (KPIs)
-![Power BI Report](https://raw.githubusercontent.com/urbainnoel/Data-analysis-projects/main/nano_bike_power_bi_report.png)
+![Power BI Report](https://raw.githubusercontent.com/urbainnoel/Project-Budget-Evaluation/main/project_budget_evaluation.jpg)
 
 ### Capital and Project Budget
 
