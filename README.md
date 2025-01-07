@@ -12,10 +12,10 @@ output: html_document
 This analysis focuses on the project overview dashboard, which provides a comprehensive view of project budgets, departmental allocations, and employee details. The dashboard aims to help stakeholders understand the distribution of capital, project budgets, and the status of various projects across different departments.
 
 ## Introduction
-This report presents an exploratory analysis of project budgets across departments. The goal is to assess budget distribution, project allocation, and departmental alignment with organizational goals.
+
+This report presents an exploratory analysis of project budgets across departments. The goal is to assess budget distribution, project allocation, and departmental alignment with organizational goals. The dashboard is designed to offer insights into how resources are allocated, which departments are receiving the most funding, and the status of ongoing and upcoming projects.
 
 ## Key Performance Indicators (KPIs)
-![Power BI Report](https://raw.githubusercontent.com/urbainnoel/Project-Budget-Evaluation/main/project_budget_evaluation.jpg)
 
 ### Capital and Project Budget
 
@@ -55,15 +55,6 @@ This report presents an exploratory analysis of project budgets across departmen
   - **Engineering:** 110K
   - **Human Resources:** 105K
   - **IT:** 90K
-
-### Employee Details
-
-- **Employee ID:** 1003
-- **First Name:** Michael
-- **Last Name:** Johnson
-- **Job Title:** Data Scientist
-- **Department Name:** Sales
-- **Compensation:** $95K
 
 ## SQL Query for Data Extraction
 
@@ -115,3 +106,10 @@ ON pa.project_id = ps.project_id;
 ## Conclusion
 
 The analysis reveals that the project overview dashboard provides a clear and concise view of the capital allocation, project budgets, and departmental goals. The majority of the project budget is allocated to the Sales department, followed by Marketing and Engineering. The Human Resources department has a negative capital allocation, which may require further investigation. The dashboard also highlights the status of various projects, with a significant portion being upcoming. These insights can be used to optimize resource allocation, prioritize projects, and ensure alignment with departmental goals.
+
+## Recommendations
+
+1. **Resource Allocation:** Review the budget allocation for the Human Resources department to understand the reasons behind the negative capital. Consider reallocating resources if necessary.
+2. **Project Prioritization:** Focus on completing the upcoming projects to improve the completion rate and ensure timely delivery of project goals.
+3. **Departmental Goals:** Align departmental goals with the overall organizational objectives to ensure cohesive progress towards strategic aims.
+4. **Budget Monitoring:** Regularly monitor the project budgets and capital allocation to identify any discrepancies and make data-driven decisions.
