@@ -1,8 +1,8 @@
 ---
-title: "Project Budget Evaluation"
-author: "Data Analyst"
-date: "`r Sys.Date()`"
-output: html_document
+Title: "Project Budget Evaluation"
+Author: "Urbain Noel Kaman Guilavogui"
+Date: "`r Sys.Date()`"
+Output: html_document
 ---
 
 
